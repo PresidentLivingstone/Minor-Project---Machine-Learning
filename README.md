@@ -31,7 +31,7 @@ Matplotlib is used for visualations of data distrubitions before training the Mo
 
 
 # Deployment
-The Crop Recommendation System is deployed on Render, a cloud platform for hosting web applications. It is hosted on the free tier, which may cause the application to take a few seconds to load initially due to the "sleep mode" feature. The web app is accessible via the following URL: [🔗 Live Demo](https://croprecommendationsystem-hx1h.onrender.com/)
+The Crop Recommendation System is deployed on Render, a cloud platform for hosting web applications. It is hosted on the free tier, which may cause the application to take a few seconds to load initially due to the "sleep mode" feature. The web app is accessible via the following URL: [🔗 Live Demo](https://minor-project-machine-learning.onrender.com/)
 
 
 ### Deployment Steps:

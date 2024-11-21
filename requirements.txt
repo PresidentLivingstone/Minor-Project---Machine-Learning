@@ -1,0 +1,6 @@
+python  #3.13.0
+scikit-learn==1.5.2
+numpy==1.26.4
+Flask==3.0.3
+requests==2.31.0
+gunicorn==21.2.0 #deployment purposes

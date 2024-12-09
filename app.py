@@ -18,7 +18,7 @@ def fetch_random_image(crop_name):
     
     try:
         response = requests.get(api_url)
-        response.raise_for_status()  # Raises an error for bad status (4xx, 5xx)
+        response.raise_for_status()  
         
         # Parse the JSON response
         data = response.json()
